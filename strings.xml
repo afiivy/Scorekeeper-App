@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sports App</string>
+    <string name="black_stars">Black Stars</string>
+    <string name="_0">0</string>
+    <string name="foul">Foul</string>
+    <string name="super_eagles">Super Eagles</string>
+    <string name="goal">Goal</string>
+    <string name="reset">Reset</string>
+    <string name="football_field">Football Field</string>
+
+</resources>
